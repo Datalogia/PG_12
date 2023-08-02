@@ -23,4 +23,4 @@ Mejoramiento de estrategias de marketing: campañas microsegmentadas* *
 
 
 ### ***Diagrama de flujo***
- ![](https://github.com/Datalogia/ProyectoG_12/blob/main/diagrama%20flujo.png)
+ ![](https://github.com/Datalogia/ProyectoG_12/blob/main/src/diagrama%20flujo.png)
