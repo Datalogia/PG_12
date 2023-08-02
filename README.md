@@ -23,9 +23,8 @@ Mejoramiento de estrategias de marketing: campañas microsegmentadas* *
 
 * *Datos adicionales a cruzar: Cotizaciones en bolsa, tendencias en redes sociales y medios de comunicación sobre comercios en expansíón.* *
 
-### ***Presentacion***
-![](https://github.com/Datalogia/ProyectoG_12/raw/main/src/sprint1.pptx)
+### **[Presentacion](https://docs.google.com/presentation/d/e/2PACX-1vTvCdNsIPGexhnbZfUPBSJHq5Q9-U8tF7SCfvxbehXp3W8IIWt--60nTJI_7Tqfg5nLvQT8jp_LMnqipub?start=false&loop=false&delayms=3000)**
 
 
-### ***Diagrama de flujo***
+### **Diagrama de flujo**
  ![](https://github.com/Datalogia/ProyectoG_12/blob/main/src/diagrama%20flujo.png)
