@@ -10,6 +10,8 @@ _ _Como parte de una consultora de data, nos han contratado para poder realizar 
 
 * *Entrenamiento y puesta en producción de un modelo de machine learning.* *
 
+
+
 ## Version Preliminar y de desarrollo del Proyecto
 
 **Objetivos:**
@@ -20,6 +22,9 @@ Mejoramiento de estrategias de marketing: campañas microsegmentadas* *
 * *Sistemas de recomendación: Sobre algún lugar en particular, pueden ser comercios como restaurantes, hoteles, entre otros.* *
 
 * *Datos adicionales a cruzar: Cotizaciones en bolsa, tendencias en redes sociales y medios de comunicación sobre comercios en expansíón.* *
+
+### ***Presentacion***
+![](https://github.com/Datalogia/ProyectoG_12/raw/main/src/sprint1.pptx)
 
 
 ### ***Diagrama de flujo***
