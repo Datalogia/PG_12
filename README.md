@@ -25,9 +25,9 @@ Mejoramiento de estrategias de marketing: campañas microsegmentadas* *
 
 
 
-## **[Pagina Web](https://sites.google.com/view/dtalogy/inicio)**
+## **[Pagina Web](https://sites.google.com/view/dtalogy/proyecto)**
 
 ### **Diagrama de flujo**
  ![](https://github.com/Datalogia/ProyectoG_12/blob/main/src/diagrama%20flujo.png)
 
-### **[Presentacion](https://docs.google.com/presentation/d/1k5K8TvmL6GBXhODl83RlmYpcGjh1i__xHIDV4SNjGCs/edit?usp=sharing)**
+### **[Presentacion](https://docs.google.com/presentation/d/1vSbPWm_0mU_NkWvR5RT4GRRQZE3zhIOg-AprREQzXOg/edit?usp=sharing)**
