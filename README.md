@@ -3,7 +3,7 @@
 _Como consultora de data, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es socio mayoritario de la empresa de comida rápida McDonald's, y solicitó tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps para medir el rendimiento de la franquicia y las oportunidades de crecimiento que puedan surgir a partir del análisis._
 
 
-![image](https://github.com/GKalell/ProyectoG_12/blob/main/src/logo%20McDonald's(200px).png)![image](https://github.com/GKalell/ProyectoG_12/blob/main/src/Datalogia%20logo(200px).png)
+![image](https://github.com/GKalell/ProyectoG_12/blob/main/src/Datalogia%20logo(200px).png)![image](https://github.com/GKalell/ProyectoG_12/blob/main/src/logo%20McDonald's(200px).png)
 
 **Etapas:**
 
@@ -25,7 +25,7 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 ### **[Presentacion](https://docs.google.com/presentation/d/1AqdPBUbrj7Y9bt3_28d5L6RN1lyiqnRadukq2MZgYDs/edit?usp=sharing)**
 
-{google_docs}https://docs.google.com/presentation/d/1AqdPBUbrj7Y9bt3_28d5L6RN1lyiqnRadukq2MZgYDs/edit?usp=sharing{/google_docs}
+
 
 ### **Diagrama de flujo**
  ![](https://github.com/Datalogia/ProyectoG_12/blob/main/src/diagrama%20flujo.png)
