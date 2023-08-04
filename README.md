@@ -1,6 +1,6 @@
 # Proyecto Inversiones Sucursales de McDonald's
 
-_ _Como parte de una consultora de data, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es parte de un conglomerado de empresas de restaurantes y afines, y desean tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps sobre hoteles, restaurantes y otros negocios afines al turismo y ocio, utilizando análisis de sentimientos, predecir cuáles serán los rubros de los negocios que más crecerán (o decaerán). Además, desean saber dónde es conveniente emplazar los nuevos locales de restaurantes y afines, y desean poder tener un sistema de recomendación de restaurantes para los usuarios de ambas plataformas._ _
+_Como consultora de data, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es socio mayoritario de la empresa de comida rápida McDonald's, y solicitó tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps para medir el rendimiento de la franquicia y las oportunidades de crecimiento que puedan surgir a partir del análisis._
 
 **Etapas:**
 
@@ -16,10 +16,7 @@ _ _Como parte de una consultora de data, nos han contratado para poder realizar 
 
 **Objetivos:**
 
-* *Ideas de análisis e implementación
-Mejoramiento de estrategias de marketing: campañas microsegmentadas* *
-
-* *Sistemas de recomendación: Sobre algún lugar en particular, pueden ser comercios como restaurantes, hoteles, entre otros.* *
+* *Crear un servicio online el cual se pueda consultar con datos limpios y depurados que fueron extraídos de la plataforma de google y yelp con las reseñas de usuarios . Para  dicho servicio se utilizara un sistema de recomendación basado en el análisis de sentimiento para evaluar como reseñas positivas o negativas. También para una mejor visualización y exploración  se implementara un dashboard interactivo*
 
 * *Datos adicionales a cruzar: Cotizaciones en bolsa, tendencias en redes sociales y medios de comunicación sobre comercios en expansíón.* *
 
