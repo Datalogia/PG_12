@@ -44,3 +44,9 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 ### **[Informe_sprint1](https://drive.google.com/file/d/1pj3QkyvMwk8wLeR7fc880Ec784WU2Re0/view?usp=sharing)**
 
+### **[Archivo csv 1000000 reviews](https://drive.google.com/file/d/1YXTQVwYIoR-eN1A1ovENviXB4PC7R2vR/view?usp=sharing)**
+
+### **[Archivo xlsx 1000000 reviews](https://docs.google.com/spreadsheets/d/13gll_WD3WGUNQ-1fE0m1tjOWrFNqFDp_/edit?usp=sharing&ouid=115540781080014535541&rtpof=true&sd=true)**
+
+### **[Archivo xlsx 50000 reviews](https://docs.google.com/spreadsheets/d/1JHY50b5NI2847qTzV_G4RgWjj8XJAjfd/edit?usp=sharing&ouid=115540781080014535541&rtpof=true&sd=true)**
+
