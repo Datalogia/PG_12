@@ -37,5 +37,5 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 ### **[Presentacion_sprint1](https://docs.google.com/presentation/d/1vSbPWm_0mU_NkWvR5RT4GRRQZE3zhIOg-AprREQzXOg/edit?usp=sharing)**
 
-### **[Informe_sprint1](https://www.canva.com/design/DAFqlXWXsEc/7MfUfGWiYr-UwoT1sp9cpg/edit)**
+### **[Informe_sprint1](https://drive.google.com/file/d/1UbKBdZa13h835HqvVzL76hpzfhHldoGX/view?usp=sharing)**
 
