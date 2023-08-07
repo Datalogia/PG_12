@@ -35,6 +35,10 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 ### **Flujo de trabajo**
  ![](https://github.com/Datalogia/ProyectoG_12/blob/main/src/diagrama%20flujo.png)
 
+ 
+ ## Documentacion 
+ 
+
 ### **[Presentacion_sprint1](https://docs.google.com/presentation/d/1vSbPWm_0mU_NkWvR5RT4GRRQZE3zhIOg-AprREQzXOg/edit?usp=sharing)**
 
 ### **[Informe_sprint1](https://drive.google.com/file/d/1UbKBdZa13h835HqvVzL76hpzfhHldoGX/view?usp=sharing)**
