@@ -36,7 +36,7 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
  ![](https://github.com/Datalogia/ProyectoG_12/blob/main/src/diagrama%20flujo.png)
 
  
- ## Documentacion 
+ ## Documentos del proyecto
  
 
 ### **[Presentacion_sprint1](https://docs.google.com/presentation/d/1vSbPWm_0mU_NkWvR5RT4GRRQZE3zhIOg-AprREQzXOg/edit?usp=sharing)**
