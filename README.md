@@ -52,3 +52,5 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 ### **[Archivo xlsx 50000 reviews](https://docs.google.com/spreadsheets/d/1JHY50b5NI2847qTzV_G4RgWjj8XJAjfd/edit?usp=sharing&ouid=115540781080014535541&rtpof=true&sd=true)**
 
+### **[Archivo parket user_yelp](https://drive.google.com/file/d/1gKakShu_ZeWw5BDbN7aGRXteX_Dui9BV/view?usp=sharing)**
+
