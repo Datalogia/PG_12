@@ -46,11 +46,5 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 ### **[Archivo completo 2550000 reviews de new york formato parket](https://drive.google.com/file/d/1oSPIxhBKIelmSHrhlskGN-Sutoj5SD4Y/view?usp=sharing)**
 
-### **[Archivo csv 1000000 reviews](https://drive.google.com/file/d/1YXTQVwYIoR-eN1A1ovENviXB4PC7R2vR/view?usp=sharing)**
-
-### **[Archivo xlsx 1000000 reviews](https://docs.google.com/spreadsheets/d/13gll_WD3WGUNQ-1fE0m1tjOWrFNqFDp_/edit?usp=sharing&ouid=115540781080014535541&rtpof=true&sd=true)**
-
-### **[Archivo xlsx 50000 reviews](https://docs.google.com/spreadsheets/d/1JHY50b5NI2847qTzV_G4RgWjj8XJAjfd/edit?usp=sharing&ouid=115540781080014535541&rtpof=true&sd=true)**
-
 ### **[Archivo parket user_yelp](https://drive.google.com/file/d/1gKakShu_ZeWw5BDbN7aGRXteX_Dui9BV/view?usp=sharing)**
 
