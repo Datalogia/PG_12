@@ -46,5 +46,5 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 ### **[Archivo completo 2550000 reviews de new york de gmaps formato parket](https://drive.google.com/file/d/1oSPIxhBKIelmSHrhlskGN-Sutoj5SD4Y/view?usp=sharing)**
 
-### **[Archivo parket user_yelp](https://drive.google.com/file/d/1gKakShu_ZeWw5BDbN7aGRXteX_Dui9BV/view?usp=sharing)**
+### **[Archivo parket user_yelp](https://drive.google.com/file/d/1suqOb-Eha82cbzrHmHwP-2apomLiSpZm/view?usp=sharing)**
 
