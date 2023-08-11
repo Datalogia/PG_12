@@ -44,7 +44,7 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 ### **[Informe_sprint1](https://drive.google.com/file/d/1pj3QkyvMwk8wLeR7fc880Ec784WU2Re0/view?usp=sharing)**
 
-### **[Archivo completo 2550000 reviews de new york de gmaps formato parket](https://drive.google.com/file/d/1oSPIxhBKIelmSHrhlskGN-Sutoj5SD4Y/view?usp=sharing)**
+### **[Review_Gmaps_NY.parket](https://drive.google.com/file/d/1692gBSkmNhTxKFIyjyAtEQLS4eFSndfF/view?usp=sharing)**
 
 ### **[Archivo parket user_yelp](https://drive.google.com/file/d/1suqOb-Eha82cbzrHmHwP-2apomLiSpZm/view?usp=sharing)**
 
