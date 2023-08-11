@@ -48,3 +48,4 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 ### **[Archivo parket user_yelp](https://drive.google.com/file/d/1suqOb-Eha82cbzrHmHwP-2apomLiSpZm/view?usp=sharing)**
 
+### **[Diccionario de datos](https://docs.google.com/document/d/15JoQ_A_5-L0Q9bjPwdxt9Kp0MpNSPRJXFHH8B4eOR1s/edit?usp=sharing)
