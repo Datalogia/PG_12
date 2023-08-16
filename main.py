@@ -52,6 +52,6 @@ def getDistance(latitude1:float, longitude1:float,unit:str):
       df_sub.distancia[i]=distance
 
   df_sub.sort_values('distancia', inplace=True)     
-  return {'recomendadas por prioridad descendente':distance}
+  return {'recomendadas por prioridad descendente':df_sub.distance}
 #reemplazar distance con df_sub
 #----------------------------------------------------
