@@ -38,7 +38,7 @@ Dashboard producto obtenido del Analisis de las distintas categorias de los loca
 
 ## **Modelos de Machine Learning**
 
-Modelo de Machine Learning para estimar que modelo de local tendra mejores resultados segun la caracteristica relevantes para los clientes,mediante el análisis de datos para calcular el rating que podrian tener los negocios. 
+Modelo de Machine Learning para estimar que modelo de local tendra mejores resultados segun la caracteristicas relevantes para los clientes,mediante el análisis de datos para calcular el rating que podrian tener los negocios. 
 
 
 ### **Flujo de trabajo**
