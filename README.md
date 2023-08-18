@@ -33,6 +33,16 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 ## **[Pagina Web](https://sites.google.com/view/dtalogy/proyecto)**
 
 
+## **Dashboard Interactivo**
+
+Dashboard producto obtenido del Analisis de las distintas categorias de los locales perteneciente a la franquicia McDonald's en el  estado de New York, permite al usuario analizar el desempeño de los locales por posicion , o relativamete  a su entorno mediante las opiniones de los clientes ,ademas de otras caracteristicas obtenidas de las fuentes de datos de Gmaps y Yelp
+
+
+## **Modelos de Machine Learning**
+
+Modelo de Machine Learning para estimar que modelo de local tendra mejores resultados segun la caracteristica relevantes para los clientes,mediante el análisis de datos para calcular el rating que podrian tener los negocios. 
+
+
 ### **Flujo de trabajo**
  ![](https://github.com/Datalogia/ProyectoG_12/blob/main/src/diagrama%20flujo.png)
 
@@ -40,7 +50,6 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
  ## Documentos del proyecto
  
 
-### **[Presentacion_sprint1](https://docs.google.com/presentation/d/1vSbPWm_0mU_NkWvR5RT4GRRQZE3zhIOg-AprREQzXOg/edit?usp=sharing)**
 
 ### **[Informe_sprint1](https://drive.google.com/file/d/1pj3QkyvMwk8wLeR7fc880Ec784WU2Re0/view?usp=sharing)**
 
