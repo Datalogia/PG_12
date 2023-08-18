@@ -45,11 +45,9 @@ Modelo de Machine Learning para estimar que modelo de local tendra mejores resul
  ![](https://github.com/Datalogia/ProyectoG_12/blob/main/src/diagrama%20flujo.png)
 
  
- ## Documentos del proyecto
+##  **Documentos del proyecto**
  
+- **[Informe_sprint1](https://drive.google.com/file/d/1pj3QkyvMwk8wLeR7fc880Ec784WU2Re0/view?usp=sharing)**
 
 
-### **[Informe_sprint1](https://drive.google.com/file/d/1pj3QkyvMwk8wLeR7fc880Ec784WU2Re0/view?usp=sharing)**
-
-
-### **[Diccionario de datos](https://docs.google.com/document/d/15JoQ_A_5-L0Q9bjPwdxt9Kp0MpNSPRJXFHH8B4eOR1s/edit?usp=sharing)
+- **[Diccionario de datos](https://docs.google.com/document/d/15JoQ_A_5-L0Q9bjPwdxt9Kp0MpNSPRJXFHH8B4eOR1s/edit?usp=sharing)
