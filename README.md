@@ -28,8 +28,6 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 
 
-
-=======
 ## **[Pagina Web](https://sites.google.com/view/dtalogy/proyecto)**
 
 
