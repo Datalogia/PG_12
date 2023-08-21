@@ -7,8 +7,11 @@
 **Datalogia data consulting-Equipo** 
 
 *Dante Alejandro Gomez – Data Analytics* 
+
 *Hector Fernando Calisaya- Data Engineer* 
+
 *Nicolas Fernando Tablon- Data Engineer* 
+
 *Daniela Florencia Gutierrez- Data Science*
 
 
