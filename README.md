@@ -50,8 +50,7 @@ Dashboard producto obtenido del Analisis de las distintas categorias de los loca
 ## **Modelos de Machine Learning**
 
 Desarrollo del modelo para estimar que patrones poseen los locales segun las caracteristicas relevantes para los clientes ,mediante el análisis de datos  calcular la ponderacion del rating que podrian tener los negocios. 
-
-**[Documentacion:](https://github.com/Datalogia/ProyectoG_12/tree/main/ML)**
+**[Documentacion - machine learning](https://github.com/Datalogia/ProyectoG_12/tree/main/ML)**
 
 
 ### **Flujo de trabajo**
