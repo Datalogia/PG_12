@@ -16,7 +16,7 @@
 
 
 Somos una consultora ficticia de análisis de datos, llamada DATALOGIA💻 
-_Como consultora de data, nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es socio mayoritario de la empresa de comida rápida McDonald's, y solicitó tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps para medir el rendimiento de la franquicia y las oportunidades de crecimiento que puedan surgir a partir del análisis._
+_Nos han contratado para poder realizar un análisis del mercado estadounidense. Nuestro cliente es socio mayoritario de la empresa de comida rápida McDonald's,  solicitó tener un análisis detallado de la opinión de los usuarios en Yelp y cruzarlos con los de Google Maps para medir el rendimiento de la franquicia y las oportunidades de crecimiento que puedan surgir a partir del análisis._
 
 
 **Etapas:**
