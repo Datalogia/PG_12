@@ -51,7 +51,8 @@ Dashboard producto obtenido del Analisis de las distintas categorias de los loca
 
 Desarrollo del modelo para estimar que patrones poseen los locales segun las caracteristicas relevantes para los clientes ,mediante el análisis de datos  calcular la ponderacion del rating que podrian tener los negocios. 
 Documentacion:
-**https://github.com/Datalogia/ProyectoG_12/tree/main/sprints/sprint_3**
+**https://github.com/Datalogia/ProyectoG_12/tree/main/ML**
+**https://github.com/Datalogia/ProyectoG_12/blob/main/sprints/sprint_3/ML.pdf**
 
 
 ### **Flujo de trabajo**
