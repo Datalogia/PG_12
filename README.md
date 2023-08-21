@@ -45,7 +45,7 @@ _Nos han contratado para poder realizar un análisis del mercado estadounidense.
 ## **Dashboard Interactivo**
 
 Dashboard producto obtenido del Analisis de las distintas categorias de los locales perteneciente a la franquicia McDonald's en el  estado de New York, permite al usuario analizar el desempeño de los locales por posicion , o relativamente  a su entorno mediante las opiniones de los clientes ,ademas de otras caracteristicas obtenidas de las fuentes de datos de Gmaps y Yelp
-## **[Pagina Web](https://sites.google.com/view/dtalogy/proyecto)**
+## **[Pagina Web disponible para el cliente](https://sites.google.com/view/dtalogy/proyecto)**
 
 
 ## **Modelos de Machine Learning**
