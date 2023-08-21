@@ -24,7 +24,7 @@ _Como consultora de data, nos han contratado para poder realizar un análisis de
 
 ***Crear un servicio online el cual se pueda consultar con datos limpios y depurados que fueron extraídos de la plataforma de google y yelp con las reseñas de usuarios . Para  dicho servicio se utilizara un sistema de recomendación basado en el análisis de sentimiento para evaluar como reseñas positivas o negativas. También para una mejor visualización y exploración  se implementara un dashboard interactivo***
 
-***Datos adicionales a cruzar: Cotizaciones en bolsa, tendencias en redes sociales y medios de comunicación sobre comercios en expansíón.***
+***Datos adicionales a cruzar: Cotizaciones en bolsa.***
 
 
 
